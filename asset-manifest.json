@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bhumikarags/smallcart/static/css/main.43065243.css",
+    "main.js": "/Bhumikarags/smallcart/static/js/main.3e495eb3.js",
+    "static/js/787.625072df.chunk.js": "/Bhumikarags/smallcart/static/js/787.625072df.chunk.js",
+    "index.html": "/Bhumikarags/smallcart/index.html",
+    "main.43065243.css.map": "/Bhumikarags/smallcart/static/css/main.43065243.css.map",
+    "main.3e495eb3.js.map": "/Bhumikarags/smallcart/static/js/main.3e495eb3.js.map",
+    "787.625072df.chunk.js.map": "/Bhumikarags/smallcart/static/js/787.625072df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43065243.css",
+    "static/js/main.3e495eb3.js"
+  ]
+}
